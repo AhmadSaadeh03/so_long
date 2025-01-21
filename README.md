@@ -62,8 +62,8 @@ If MinilibX is not already included in your project as a submodule or a folder, 
 1. Clone the MinilibX repository:
    ```bash
    git clone https://github.com/42Paris/minilibx-linux.git
-cd minilibx-linux
-make
+   cd minilibx-linux
+   make
 **Clone so_long**
 ```bash
 git clone https://github.com/AhmadSaadeh03/so_long.git
