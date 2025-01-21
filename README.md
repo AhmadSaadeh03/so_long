@@ -54,6 +54,14 @@ In this project, I developed a 2D game with the following features:
 ## Installation
 To set up and run the game on your local machine, follow these steps:
 
+**Clone MinilibX** (if it's not already included in your project):
+
+   If you don't have MinilibX as a submodule or separate folder, you can clone it directly from the 42 repository:
+   ```bash
+ git clone https://github.com/42Paris/minilibx-linux.git
+cd minilibx-linux
+make
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/AhmadSaadeh03/so_long.git
