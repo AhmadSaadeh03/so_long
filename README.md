@@ -52,19 +52,18 @@ In this project, I developed a 2D game with the following features:
 - Make utility
 
 ## Installation
-To set up and run the game on your local machine, follow these steps:
 
-**Clone MinilibX** (if it's not already included in your project):
+To set up and run the **so_long** game on your local machine, follow these steps:
 
-   If you don't have MinilibX as a submodule or separate folder, you can clone it directly from the 42 repository:
+### 1. **Clone MinilibX**
+
+If MinilibX is not already included in your project as a submodule or a folder, you will need to clone it separately. Follow these steps to install **MinilibX**:
+
+1. Clone the MinilibX repository:
    ```bash
- git clone https://github.com/42Paris/minilibx-linux.git
+   git clone https://github.com/42Paris/minilibx-linux.git
 cd minilibx-linux
 make
-
-1. **Clone the repository**:
-   ```bash
+### 2. **Clone so_long**
+    ```bash
    git clone https://github.com/AhmadSaadeh03/so_long.git
-   cd so_long
-   make
-./so_long maps/map1.ber
