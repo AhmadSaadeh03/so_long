@@ -67,3 +67,6 @@ If MinilibX is not already included in your project as a submodule or a folder, 
 **Clone so_long**
 ```bash
 git clone https://github.com/AhmadSaadeh03/so_long.git
+cd so_long
+make
+./so_long maps/map1.ber
